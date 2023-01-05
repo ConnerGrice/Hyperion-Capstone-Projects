@@ -1,0 +1,12 @@
+Conner;Register Users with taskManager.py;Use taskManager.py to add the usernames and passwords for all team members that will be using this program.;2019-10-10;2019-10-20;No
+admin;Assign initial tasks;Use taskManager.py to assign each team member with appropriate tasks;2019-10-10;2019-10-25;No
+admin;Testing once again;This time I want to see if the date formatting is correct;2021-12-13;2022-11-11;Yes
+Joe;Testing ;I need to write a description of the task;2032-09-15;2022-11-11;Yes
+Conner;i've done so many of these;i have to stop doing this eventually;2333-03-29;2022-11-12;No
+Conner;Due date testing;Now I want to test that I can enter a due date without errors;2999-07-16;2022-11-12;No
+Joe;Writing task;Does the system still work after refactoring the function that writes the tasks into the text file?;2222-12-21;2022-11-12;No
+Tim;Checking program;I am checking if the functions of the program are still wokring after refactoring some more;2024-12-17;2022-11-13;No
+Tim;Tims task;This is a test for Tim because he didnt have one;2016-12-12;2022-11-13;No
+Jacob;Task for Jacob;This is another task given only because they didnt laready have one;2021-04-07;2022-11-13;No
+James;James also has a task;I want to give james 2 tasks because I dont like him;2001-01-01;2022-11-13;No
+James;Another task for james;This is the second task james has to completed. Have fun james!;2001-02-01;2022-11-13;No

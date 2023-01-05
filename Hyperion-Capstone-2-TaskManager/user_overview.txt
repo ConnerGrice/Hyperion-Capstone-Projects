@@ -1,0 +1,40 @@
+USER OVERVIEW REPORT====================
+Total tasks:   12
+Total users:   6
+
+Admin: INFORMATION======================
+Tasks_____________2/12    (16.67%)
+Completed_________1/2     (50.0%)
+Incompleted_______1/2     (50.0%)
+Overdue___________1/1     (100.0%)
+
+Conner: INFORMATION=====================
+Tasks_____________3/12    (25.0%)
+Completed_________0/3     (0.0%)
+Incompleted_______3/3     (100.0%)
+Overdue___________1/3     (33.33%)
+
+Joe: INFORMATION========================
+Tasks_____________2/12    (16.67%)
+Completed_________1/2     (50.0%)
+Incompleted_______1/2     (50.0%)
+Overdue___________0/1     (0.0%)
+
+Jacob: INFORMATION======================
+Tasks_____________1/12    (8.33%)
+Completed_________0/1     (0.0%)
+Incompleted_______1/1     (100.0%)
+Overdue___________1/1     (100.0%)
+
+Tim: INFORMATION========================
+Tasks_____________2/12    (16.67%)
+Completed_________0/2     (0.0%)
+Incompleted_______2/2     (100.0%)
+Overdue___________1/2     (50.0%)
+
+James: INFORMATION======================
+Tasks_____________2/12    (16.67%)
+Completed_________0/2     (0.0%)
+Incompleted_______2/2     (100.0%)
+Overdue___________2/2     (100.0%)
+
