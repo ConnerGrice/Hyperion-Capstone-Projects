@@ -11,7 +11,7 @@ There are two types of interest that can be used in the calculation:
 
 Type|Description|Equation
 ---|---|---
-Simple|Intrest is added by only taking into account the initial investment|$B = P(1+I)t$
+Simple|Interest is added by only taking into account the initial investment|$B = P(1+I)t$
 Compound|Interest is added using the running total within the account|$B = P(1+I)^t$
 
 **Note:** $B$ is the balance after a given number of years, $t$, at an interest rate of $I$
