@@ -2,6 +2,8 @@
 
  A collection of projects completed during my Hyperion Development Data Science Bootcamp between 1st-Nov-2022 and 10th-Jan-2023. These projects cover a range of topics such as basic object oriented programming, exploratory data analysis, SQL databases and Machine learning algorithms.
 
+## Projects included
+
  Project|Description
  ---|---
  `1-VariableControl/`| A simple command-line multi-use calculator that can be used to calculate the money gained on an investment or the amount you would have to pay back on a house loan.
@@ -12,4 +14,14 @@
 `6-MLRandomForest/`|A demonstration on using [SciKit-Learn](https://scikit-learn.org/stable/) to train and tune a [Random Forest](https://en.wikipedia.org/wiki/Random_forest) machine learning model. The model was trained using the [MNIST handwritten digit](http://yann.lecun.com/exdb/mnist/) data-set to recognise written numbers.
 `7-MLClustering/`|A demonstration on using PCA to simplify a dataset, then comparing the [K-mean](https://en.wikipedia.org/wiki/K-means_clustering) and [Hierarchical](https://en.wikipedia.org/wiki/Hierarchical_clustering) clustering algorithms. The [dataset](https://www.kaggle.com/datasets/kurohana/usarrets) used contains crime statistics for each US state. [Scikit-learn](https://scikit-learn.org/stable/) was used for the clustering algorithms.
 
-Thank you to [Hyperion Development](https://www.hyperiondev.com/) for providing me with the resources used for these projects and all the other tasks completed during the bookcamp.
+## Installation
+
+After moving into the directory you want the projects to be installed in, clone the repository using:
+
+```sh
+git clone https://github.com/ConnerGrice/Hyperion-Capstone-Projects
+```
+
+Once the repository is cloned, you can move into any project directory you want.
+
+Thank you to [Hyperion Development](https://www.hyperiondev.com/) for providing me with the resources used for these projects and all the other tasks completed during the Bootcamp.
